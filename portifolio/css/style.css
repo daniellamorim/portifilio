@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+}
+
+/* classe placeholder: .box*/
+.box{
+    background-color: blueviolet;
+
+    height: 150px;
+    width: 150px;
+}
+.boxIcon{
+    background-color: blueviolet;
+
+    border-radius: 35%;
+
+    height: 50px;
+    width: 50px;
+}
+
+li{
+    list-style-type: none ;
+}
+.fourLinksSection{
+    display: flex;
+    gap: 15px;
+}
+
+.perfilPhoto{
+    border-radius: 100%;
+}
